@@ -1,1 +1,1 @@
-# frequencie-calculator
+# frequency-calculator
